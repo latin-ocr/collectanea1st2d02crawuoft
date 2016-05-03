@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectanea1st2d02crawuoft_0016.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 647 915 988 960">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 647 915 988 960">
+     <span class='ocr_line' id='line_1_1' title="bbox 647 915 988 960; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 647 915 988 960; x_wconf 87' lang='lat' dir='ltr'><strong>CONTENTS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1289 1017 1366 1035">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1289 1017 1366 1035">
+     <span class='ocr_line' id='line_1_2' title="bbox 1289 1017 1366 1035; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1289 1017 1366 1035; x_wconf 73' lang='lat' dir='ltr'>PAGL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 280 1097 1350 1200">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 280 1097 1350 1200">
+     <span class='ocr_line' id='line_1_3' title="bbox 280 1097 1202 1142; baseline -0.01 -10"><span class='ocrx_word' id='word_1_3' title='bbox 280 1103 561 1142; x_wconf 85' lang='lat' dir='ltr'>MONTAIGNE,</span> <span class='ocrx_word' id='word_1_4' title='bbox 593 1101 804 1140; x_wconf 82' lang='lat' dir='ltr'>WEBSTER,</span> <span class='ocrx_word' id='word_1_5' title='bbox 838 1100 930 1127; x_wconf 90' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_6' title='bbox 968 1097 1202 1126; x_wconf 81' lang='lat' dir='ltr'>MARSTON:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 340 1165 1350 1200; baseline -0.009 0"><span class='ocrx_word' id='word_1_7' title='bbox 340 1172 488 1200; x_wconf 88' lang='lat' dir='ltr'>DONNE</span> <span class='ocrx_word' id='word_1_8' title='bbox 512 1172 604 1198; x_wconf 87' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_9' title='bbox 625 1169 822 1198; x_wconf 87' lang='lat' dir='ltr'>WEBSTER</span> <span class='ocrx_word' id='word_1_10' title='bbox 923 1187 932 1195; x_wconf 87' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1060 1186 1068 1193; x_wconf 89' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1195 1184 1204 1192; x_wconf 94' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1336 1165 1350 1191; x_wconf 97' lang='lat' dir='ltr'>I</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 280 1243 1357 1302">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 280 1243 1357 1302">
+     <span class='ocr_line' id='line_1_5' title="bbox 280 1243 1357 1302; baseline -0.009 -8"><span class='ocrx_word' id='word_1_14' title='bbox 280 1266 368 1293; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_15' title='bbox 391 1262 853 1293; x_wconf 87' lang='lat' dir='ltr'>BACON-SHAKESPEARE</span> <span class='ocrx_word' id='word_1_16' title='bbox 876 1261 1084 1302; x_wconf 75' lang='lat' dir='ltr'>QJESTION</span> <span class='ocrx_word' id='word_1_17' title='bbox 1197 1277 1205 1286; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1302 1243 1357 1295; x_wconf 78' lang='lat'>64</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
